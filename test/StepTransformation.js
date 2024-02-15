@@ -1,3 +1,4 @@
+/*
 let steps = {}
 steps.current = 
 [
@@ -142,3 +143,4 @@ steps.current =
 }); 
 stepPoints.length=30;
  console.log(durationTime);
+ */
